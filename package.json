@@ -1,0 +1,16 @@
+{
+  "name": "talentdev",
+  "version": "1.0.0",
+  "description": "Developers job platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./app.js"
+  },
+  "author": "felopezm",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "nodemon": "^2.0.3"
+  }
+}
